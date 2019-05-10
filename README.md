@@ -1,2 +1,2 @@
 # ITPM
-images necessary for ABC web application
+ABC webapplication created with  PHP and MYSQL
